@@ -53,7 +53,7 @@
         "sort-packages": true
     },
     "scripts": {
-        "run:unit": [
+        "run:tests": [
             "phpunit ./tests"
         ]
     }
